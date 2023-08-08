@@ -119,6 +119,3 @@ function Color(depth) {
     legend.addTo(map);
   });
   
-  
-  
-  
